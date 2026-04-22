@@ -689,6 +689,7 @@ function Footer() {
             <a href="#">Умови використання</a>
             <a href="#">Конфіденційність</a>
             <a href="#">Cookies</a>
+            <a href="/admin">Go to admin</a>
           </div>
         </div>
       </div>
